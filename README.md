@@ -1,8 +1,8 @@
 # snowfall-predict
-This repo contains a Notebook, `Coding Challenge.ipynb` with a short case study in which a dataset with weather data is used to predict snowfall.
+This repo contains a Notebook, `Coding Challenge.ipynb`, with a short case study in which a dataset with weather data is used to predict snowfall.
 
 Requirements:
-- Python 3.12 or higher
+- Python 3.12
 - Google Account and gcloud CLI installed and set up
 
 Setup virtual environment:
